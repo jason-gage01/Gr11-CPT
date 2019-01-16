@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ThreeLives
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ Monday\ June\ 11\ 2018\r\n\ Three\ Lives\ shows\ the\ user\ if\ they\ have\ three\ lives\ left.\ If\ the\ user\ has\ 2\ lives\ the\ three\ lives\ sign\ will\ be\ deleted\r\n
+comment1.params=
+comment1.target=ThreeLives()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ThreeLives\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=WelcomeScreen
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ Monday\ June\ 11\ 2018\r\n\ The\ welcome\ screen,\ welcomes\ the\ player\ into\ the\ game\ and\ gives\ them\ options\ to\ either\ enter\ the\ game\ by\ pressing\ the\ enter\ key,\ or\ view\ the\ game\ rules\ by\ pressing\ r\ or\ view\ the\ game\ controls\ by\ pressing\ i.\r\n
+comment1.params=
+comment1.target=WelcomeScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WelcomeScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

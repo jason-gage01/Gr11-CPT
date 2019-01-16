@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Frog2
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ Monday\ June\ 11\ 2018\r\n\ The\ frogs\ purpose\ is\ to\ make\ it\ across\ the\ screen,\ while\ avoiding\ a\ variety\ of\ obstacles\ on\ the\ way.\ The\ frog\ is\ the\ only\ piece\ of\ the\ game\ that\ is\ controlled\ by\ the\ user.\ \r\n\ The\ user\ can\ move\ the\ frog\ by\ using\ the\ arrow\ keys\ on\ the\ keyboard.\ The\ up\ key\ moves\ the\ frog\ up,\ down\ key\ moves\ the\ frog\ down,\ left\ key\ moves\ frog\ left\ and\ right\ key\ moves\ the\ frog\ right.\ \r\n\ Every\ time\ the\ key\ is\ touched\ the\ frog\ moves\ 2\ pixels\ in\ that\ direction.\ Once\ the\ frog\ makes\ it\ to\ safety\ a\ new\ frog\ is\ called\ and\ the\ safe\ frog\ goes\ away.\r\n
+comment1.params=
+comment1.target=Frog2()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Frog2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

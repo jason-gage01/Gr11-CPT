@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BeatGame
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ If\ the\ player\ saves\ 5\ frogs\ in\ the\ game,\ the\ congratulations\ (beatgame)\ screen\ will\ pop\ up\ because\ they\ have\ beat\ the\ game.\ User\ can\ return\ to\ start\ menu\ by\ pressing\ s.\r\n
+comment1.params=
+comment1.target=BeatGame()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BeatGame.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

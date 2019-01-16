@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ZeroFrogs
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ Monday\ June\ 11\ 2018\r\n\ Zero\ frogs\ shows\ the\ user\ how\ many\ frogs\ they\ have\ saved.\ If\ the\ user\ has\ saved\ 0\ frogs\ this\ actor\ will\ be\ displayed.\r\n
+comment1.params=
+comment1.target=ZeroFrogs()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ZeroFrogs\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

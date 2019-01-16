@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ControlsScreen
+comment0.text=\r\n\ Jason\ Gage\r\n\ ICS3U1b\r\n\ Frogger\ CPT\r\n\ Monday\ June\ 11\ 2018\r\n\ The\ controls\ screen\ is\ entered\ after\ the\ user\ hits\ i\ in\ the\ Welcome\ Screen.\ Here\ the\ user\ can\ view\ all\ the\ controls\ of\ Frogger.\ To\ return\ to\ start\ menu\ (welcome\ screen)\ the\ user\ presses\ s\r\n
+comment1.params=
+comment1.target=ControlsScreen()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ControlsScreen.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3
